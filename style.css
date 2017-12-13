@@ -1,0 +1,12 @@
+body {
+      font-family: sans-serif;
+    }
+
+td {
+      background-color: #c4ceec;
+      font-weight: bold;
+      width: 30px;
+      font-size: 22px;
+      padding: 10px;
+      margin: 10px;
+}
